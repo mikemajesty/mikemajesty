@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mikemajesty?cardType=level&theme=dark)](https://git.io/awesome-stats-card)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikemajesty&show_icons=true&theme=radical)
 
 <!--
 **mikemajesty/mikemajesty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
