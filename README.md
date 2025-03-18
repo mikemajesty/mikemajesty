@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikemajesty&show_icons=true&theme=radical)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikemajesty&theme=github_dark)
 
 <!--
 **mikemajesty/mikemajesty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
